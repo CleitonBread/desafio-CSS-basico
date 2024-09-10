@@ -1,0 +1,22 @@
+h1 {
+    width: 300px;
+    height: 40px;
+    border-bottom: solid 5px black;
+}
+
+.texto {
+    margin: 40px;
+    padding: 20px;
+}
+
+.primeiro-parag {
+    background-color: #f5f5f5;
+    width: 500px;
+    height: 100px;
+}
+
+.segundo-parag {
+    background-color: brown;
+    width: 500px;
+    height: 100px;
+}
